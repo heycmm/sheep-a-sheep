@@ -7,7 +7,7 @@ rank_url = 'https://cat-match.easygame2021.com/sheep/v1/game/game_over?rank_scor
 # 第二关
 second_map_url = 'https://cat-match.easygame2021.com/sheep/v1/game/map_info?map_id=90016'
 # 第一关
-first_map_url = 'https://cat-match.easygame2021.com/sheep/v1/game/map_info?map_id=90016'
+first_map_url = 'https://cat-match.easygame2021.com/sheep/v1/game/map_info?map_id=80001'
 
 headers = {
     'Content-Type': 'application/json',
